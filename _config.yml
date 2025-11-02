@@ -11,7 +11,7 @@ search_enabled: true
 
 nav:
   - 介绍: index.md
-  - 你需要知道的与开发无关的东西: installation.md
+  - 你需要知道的与开发无关的东西: i.md
   - 开发指南:
     - 开发: guide/quickstart.md
     - 特殊标签说明: guide/configuration.md
