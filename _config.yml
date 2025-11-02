@@ -1,0 +1,26 @@
+title: "桌面小工具详细开发文档"
+description: "2025年桌面小工具全网独家的开发教程！"
+baseurl: "/"
+
+
+remote_theme: just-the-docs/just-the-docs
+
+
+search_enabled: true
+
+
+nav:
+  - 介绍: index.md
+  - 你需要知道的与开发无关的东西: installation.md
+  - 开发指南:
+    - 开发: guide/quickstart.md
+    - 特殊标签说明: guide/configuration.md
+    - 如何打包: guide/deployment.md
+  - 进阶指南:
+    - 特别的JS函数: api/core.md
+    - 官方没告诉你的技巧: api/plugins.md
+  - 官方提供的示例:
+    - 下载: examples/basic-usage.md
+
+
+color_scheme: light
